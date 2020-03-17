@@ -53,4 +53,4 @@ async def userinfo(ctx, member: discord.Member = None):
     await ctx.send(embed=embed)
 
 bot.remove_command("help")
-bot.run('Njg3NjMwNTUzOTMxMTg2Mjc2.XnDK1g.MR95E6JIpKRqQt_6rMdegabWIys')
+bot.run('Njg3NjMwNTUzOTMxMTg2Mjc2.XnEEiQ.ik7UYsfl9dIIPe1-9nbPBGu8VFQ')
