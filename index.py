@@ -18,7 +18,6 @@ async def ping(ctx):
 	
 @bot.event
 async def on_ready():
-	await bot.change_presence(activity=discord.Playing(name="Ayudando a zDisconected")
 	print('EL BOT ESTA ON')
     
 @bot.command()
